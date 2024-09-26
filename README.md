@@ -2,7 +2,6 @@
 Gantt Chart
 
 ![alt text](images/gantt.png)
-![alt text](public/logo192.png)
 
 ## Available Scripts
 
