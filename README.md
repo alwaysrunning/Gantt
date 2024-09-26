@@ -1,7 +1,7 @@
 # Gantt
 Gantt Chart
 
-![alt text](images/gantt.jpg)
+![alt text](images/gantt.png)
 
 ## Available Scripts
 
