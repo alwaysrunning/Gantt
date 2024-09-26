@@ -1,3 +1,2 @@
 # Gantt
 Gantt Chart
-text
